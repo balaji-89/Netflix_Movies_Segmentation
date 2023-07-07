@@ -28,7 +28,8 @@ Then after converting this vector, the next step is building clustering machine 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Library Used:
-  - Pytorch
+  - Matplotlib, Seaborn
+  - Sklearn
   - Numpy
   - Pandas
     
